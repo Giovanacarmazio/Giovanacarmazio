@@ -2,7 +2,7 @@
 
 :computer: I'm in development for a finger analysis area and python programmer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Curitiba, Parana - Brazil.
 
 :books: I’m currently learning everything.
 
