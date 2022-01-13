@@ -3,7 +3,6 @@
 
 :house_with_garden: I’m from Curitiba, Parana - Brazil.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job in the field.
 
 ## About me
 
