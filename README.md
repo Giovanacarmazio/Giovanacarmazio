@@ -1,6 +1,5 @@
 ### Hello ! I'm Giovana Carmazio 
 
-:computer: I am a tax analyst at Grupo Boticario. Future data analyst graduated from Sirius Education.
 
 :house_with_garden: I’m from Curitiba, Parana - Brazil.
 
